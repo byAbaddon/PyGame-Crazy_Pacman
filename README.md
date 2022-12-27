@@ -14,7 +14,7 @@ For each grab dot and fruit you get different points.
 soon
 
 ## Screenshots:
-soon
+![1](https://user-images.githubusercontent.com/51271834/209697983-0c911560-d654-4d17-a75c-4719ed2f47fc.png)
 
 
 ## Prerequisites
