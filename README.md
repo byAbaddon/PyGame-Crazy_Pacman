@@ -14,8 +14,8 @@ For each grab dot and fruit you get different points.
 soon
 
 ## Screenshots:
-![1](https://user-images.githubusercontent.com/51271834/209697983-0c911560-d654-4d17-a75c-4719ed2f47fc.png)
-
+![1](https://user-images.githubusercontent.com/51271834/209698330-dcdaadd8-fc3d-4772-b221-b22615396349.png)
+![2](https://user-images.githubusercontent.com/51271834/209698343-d0139d1c-50ba-4713-a458-c6ccb805da2d.png)
 
 ## Prerequisites
 - [Python](https://www.python.org)
