@@ -11,7 +11,7 @@ Do not collide with ememies!
 For each grab dot and fruit you get different points.
 
 ## Video intro:
-soon
+(https://youtu.be/fjoK0w2cr9Q)
 
 ## Screenshots:
 ![1](https://user-images.githubusercontent.com/51271834/209698330-dcdaadd8-fc3d-4772-b221-b22615396349.png)
