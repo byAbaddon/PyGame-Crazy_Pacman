@@ -7,7 +7,7 @@
 
 ## Playing the game
 You control the Pacman. You can make  move  by pressing the arrows (left), (right), (down), (up).
-Do not collide with ememies!
+Do not collide with enemies!
 For each grab dot and fruit you get different points.
 
 ## Video intro:
