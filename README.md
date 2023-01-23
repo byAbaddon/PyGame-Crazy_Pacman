@@ -19,6 +19,9 @@ https://youtu.be/fjoK0w2cr9Q
 ![crazy_pacman](https://user-images.githubusercontent.com/51271834/209870791-57dcce31-04e5-46ad-a5ce-30aa02a919f0.png)
 ![game_over](https://user-images.githubusercontent.com/51271834/209871006-3aabcd1b-8544-424c-9a97-a44ee1449ac9.png)
 
+### Download
+#### For Linux AppImage that run anywhere
+https://github.com/byAbaddon/PyGame-Crazy_Pacman/releases/tag/Crazt_Pacman_AppImage
 
 ## Prerequisites
 - [Python](https://www.python.org)
